@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "ios": {
-    "latestVersion": "1.0.0",
-    "minimumVersion": "1.0.0",
+    "latestVersion": "1.0.1",
+    "minimumVersion": "1.0.1",
     "storeUrl": "https://apps.apple.com/",
     "notBefore": null
   }
